@@ -34,7 +34,7 @@ Desarrollado como parte del módulo de Aplicaciones Distribuidas en la **Escuela
 
 El código fuente está organizado siguiendo el patrón MVC:
 
-
+```text
 src/main/
 ├── java/ec/edu/epn/taller2carros/
 │   ├── model/         # Entidad de negocio (Vehiculo.java)
@@ -47,7 +47,7 @@ src/main/
     ├── ventana_vehiculo.fxml  # Diseño visual de la interfaz
     └── images/
         └── carro.png          # Assets gráficos
-
+```
 ---
 
 ## 🚀 Instalación y Ejecución
